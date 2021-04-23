@@ -1,3 +1,5 @@
+Full Report Available at https://docs.google.com/document/d/e/2PACX-1vTpD3C59LIpqFdQj4DkC9Bmoy5sMk-ceBw2n0T9rYfjSgVj2x-uM9EVtfLBH6Xyj2RNYTACgfRMazUt/pub
+
 Summary of the Project
 
 This project aims to inherit a model fully learned and extend it to consume a completely new set of words. The process involves the following high level steps
